@@ -2,10 +2,10 @@
 
 使い方（超雑）
 ↓を設定する
-・伊丹市のワクチンの番号
-・パスワード
-・slackのwebhookURL
-・chromedriverのpath
+- 伊丹市のワクチンの番号
+- パスワード
+- slackのwebhookURL
+- chromedriverのpath
 
 pythonを実行する
 
